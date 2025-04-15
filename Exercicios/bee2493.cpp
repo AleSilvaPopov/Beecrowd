@@ -17,7 +17,7 @@ int main(){
         
         vector<expressao> expressoes(T);
         for(int i=0; i<T; i++){
-            string igual;
+            char igual;
             cin >> expressoes[i].X >> expressoes[i].Y >> igual >> expressoes[i].Z;
 
             expressoes[i].soma = (expressoes[i].X + expressoes[i].Y == expressoes[i].Z);
@@ -55,11 +55,11 @@ int main(){
         }else if(reprovados.size() == T){
             cout << "None Shall Pass!\n";
         }else{
-            bool espaco = false;
-            for(string nome : reprovados){
-                if(!espaco) cout << " ";
-                cout << nome;
-                espaco = true;
+            auto it = reprovados.begin();
+            cout << *it; 
+            
+            for (++it; it != reprovados.end(); ++it) {
+                cout << " " << *it;
             }
             cout << "\n";
         }
