@@ -1,2 +1,2 @@
 # Beecrowd
- Excercícios do beecrowd ressolvidos
+ Excercícios do beecrowd resolvidos
