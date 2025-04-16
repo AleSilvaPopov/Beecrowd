@@ -19,7 +19,7 @@ int main(){
     else{
         minutosTotais = 24 * 60;
     }
-
+    
     int horas, min;
     horas = minutosTotais / 60;
     min = minutosTotais % 60;
