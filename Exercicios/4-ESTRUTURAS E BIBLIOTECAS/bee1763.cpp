@@ -39,7 +39,7 @@ int main(){
             cout << "--- NOT FOUND ---\n";
 
         else cout << felizNatal[entrada] << '\n';
-
-        return 0;
     }
+
+    return 0;
 }
