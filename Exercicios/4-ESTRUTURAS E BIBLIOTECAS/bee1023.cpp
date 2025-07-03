@@ -41,7 +41,7 @@ int main(){
             if (i > 0 && imoveis[i].consumo== imoveis[i-1].consumo) {
                 grupos.back().first += imoveis[i].x;
             } else {
-                grupos.push_back({imoveis[i].x, imoveis[i].x});
+                grupos.push_back({imoveis[i].x, imoveis[i].consumo});
             }
         }
 
