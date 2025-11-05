@@ -1,8 +1,6 @@
 # Minhas Soluções Beecrowd
 
-![Beecrowd Logo](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/22198/beecrowd.png)
-
-Este repositório serve como um arquivo pessoal das minhas soluções para os desafios de programação da plataforma [Beecrowd](https://www.beecrowd.com.br/).
+Este repositório serve como um arquivo pessoal das minhas soluções para os desafios de programação da plataforma [Beecrowd](https://judge.beecrowd.com/pt).
 
 O objetivo principal é documentar meu progresso, praticar diferentes algoritmos, estruturas de dados e paradigmas de programação, e servir como um portfólio do meu trabalho em resolução de problemas.
 
