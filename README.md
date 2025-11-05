@@ -48,4 +48,4 @@ Este repositório é destinado principalmente a fins educacionais e como um regi
 
 Você pode acompanhar meu progresso e perfil diretamente na plataforma:
 
-* **Perfil Beecrowd:** `AleSilvaPopov(https://www.beecrowd.com.br/judge/pt/profile/1114399)`
+* **Perfil Beecrowd:** `https://judge.beecrowd.com/pt/profile/1114399`
